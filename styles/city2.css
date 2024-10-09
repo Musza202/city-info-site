@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: aquamarine;
 }
 
 header {
@@ -29,7 +29,14 @@ nav ul li a {
 }
 
 img{
+    margin-left: 10px;
+    margin-right:10px ;
     height: 300px;
     width: 300px;
     float:right;
+}
+
+button{
+    background-color: black;
+    color:white;
 }
